@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: Sono un neolaureato in informatica
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Sono un neolaureato in Informatica, con uno spiccato interesse per la
+      programmazione e lo sviluppo web. L’esperienza Erasmus+ ha rafforzato la
+      mia adattabilità e la comunicazione in contesti interculturali, competenze
+      preziose per lavorare su progetti reali e innovativi. Cerco un contesto
+      che mi dia l'opportunità di mettere in pratica le mie capacità in ambienti
+      dinamici e stimolanti.
     styles:
       self:
         height: auto
