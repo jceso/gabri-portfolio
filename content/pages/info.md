@@ -258,7 +258,7 @@ sections:
         label: Inglese B2 Certificato
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Portoghese
         url: ''
       - type: Label
         label: Next.js
