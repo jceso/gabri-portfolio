@@ -113,7 +113,7 @@ sections:
       - type: Label
         label: NumPy (Python)
       - type: Label
-        label: Pancakes
+        label: Pandas (Python)
       - type: Label
         label: C++
       - type: Label
