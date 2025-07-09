@@ -117,7 +117,7 @@ sections:
       - type: Label
         label: PostgreSQL
       - type: Label
-        label: Swift
+        label: MongoDB
   - type: DividerSection
     styles:
       self:
