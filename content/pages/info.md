@@ -194,10 +194,10 @@ sections:
         text: |
           **Università degli studi di Perugia**
 
-          Laurea Triennale in Informatica con Votazione 97/110
+          Laurea Triennale in Informatica con Votazione 97/110\n
           *Settembre 2020 - Aprile 2025*
 
-          ****
+          ***
 
           **IIS De Sarlo - De Lorenzo | Lagonegro (PZ)**
 
