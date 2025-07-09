@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Trannoi
 date: '2002-02-12'
-client: Awesome client
+client: Progetto Universitario
 description: Among Us Copycat
 featuredImage:
   type: ImageBlock
