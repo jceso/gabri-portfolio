@@ -260,9 +260,6 @@ sections:
       - type: Label
         label: Portoghese - Base
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
