@@ -132,6 +132,9 @@ sections:
         label: XML
         url: ''
       - type: Label
+        label: Angular
+        url: ''
+      - type: Label
         label: GitHub
         url: ''
       - type: Label
@@ -151,9 +154,6 @@ sections:
         url: ''
       - type: Label
         label: Capacità di adattamento e rapidità di apprendimento
-        url: ''
-      - type: Label
-        label: Angular
         url: ''
     title: Competenze
   - type: DividerSection
