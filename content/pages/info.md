@@ -122,13 +122,13 @@ sections:
         label: MySQL
         url: ''
       - type: Label
+        label: HTML
+        url: ''
+      - type: Label
         label: CSS
         url: ''
       - type: Label
         label: XML
-        url: ''
-      - type: Label
-        label: HTML
         url: ''
   - type: DividerSection
     styles:
