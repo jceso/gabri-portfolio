@@ -13,17 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
+    text: |
       Sono nato il 19 Novembre 2001
       Sono di Castelluccio Inferiore (PZ) ma domicilio a Perugia
       Ho la patente B e sono automunito
-      =================================
-
-
-
-
-
-
     media:
       type: ImageBlock
       url: /images/about.jpg
