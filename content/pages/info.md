@@ -136,6 +136,9 @@ sections:
       - type: Label
         label: Android Studio
         url: ''
+      - type: Label
+        label: Web Programming
+        url: ''
   - type: DividerSection
     styles:
       self:
