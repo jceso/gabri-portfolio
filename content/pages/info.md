@@ -177,18 +177,18 @@ sections:
       - type: FeaturedItem
         subtitle: 'Formazione:'
         text: >
-          *   **Settembre 2020 - Aprile 2025         Votazione 97/110**
+          **Settembre 2020 - Aprile 2025         Votazione 97/110**
 
 
-          Laurea Triennale in Informatica presso Università degli Studi di
+          *   Laurea Triennale in Informatica presso Università degli Studi di
           Perugia
 
 
-          *   **Settembre 2015 - Giugno 2020       Votazione 83/100**
+          **Settembre 2015 - Giugno 2020       Votazione 83/100**
 
 
-          Liceo Scientifico opzione Scienze Applicate presso IIS De Sarlo - De
-          Lorenzo | Lagonegro (PZ)
+          *   Liceo Scientifico opzione Scienze Applicate presso IIS De Sarlo -
+          De Lorenzo | Lagonegro (PZ)
         styles:
           self:
             textAlign: left
