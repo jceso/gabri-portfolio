@@ -131,6 +131,9 @@ sections:
         label: XML
         url: ''
       - type: Label
+        label: Android Studio
+        url: ''
+      - type: Label
         label: GitHub
         url: ''
   - type: DividerSection
