@@ -252,7 +252,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Italiano | Madrelingua
+        label: Italiano - Madrelingua
         url: ''
       - type: Label
         label: Inglese - B2 Certificato
