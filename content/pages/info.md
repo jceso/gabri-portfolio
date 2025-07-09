@@ -249,7 +249,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: Lingue
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
