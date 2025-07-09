@@ -37,7 +37,7 @@ sections:
     title: ''
     subtitle: >-
       SONO NATO IL 19 NOVEMBRE 2001. SONO ORIGINARIO DI CASTELLUCCIO INFERIORE
-      (PZ) MA DOMICILIO A PERUGIA. HO LA PATENTE B E SONO AUTOMUNITO
+      (PZ) MA DOMICILIO A PERUGIA. HO LA PATENTE B E SONO AUTOMUNITO.
   - type: DividerSection
     styles:
       self:
