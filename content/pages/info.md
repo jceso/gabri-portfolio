@@ -34,6 +34,9 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: >-
+      SONO NATO IL 19 NOVEMBRE 2001SONO ORIGINARIO DI CASTELLUCCIO INFERIORE
+      (PZ) MA DOMICILIO A PERUGIAHO LA PATENTE B E SONO AUTOMUNITO
   - type: DividerSection
     styles:
       self:
