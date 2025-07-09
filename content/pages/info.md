@@ -113,7 +113,7 @@ sections:
       - type: Label
         label: Kotlin
       - type: Label
-        label: Pandas (Python)
+        label: R
       - type: Label
         label: C++
       - type: Label
