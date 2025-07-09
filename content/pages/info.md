@@ -206,7 +206,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Formazione
+        title: '**Formazione**'
     columns: 2
     spacingX: 60
     spacingY: 60
