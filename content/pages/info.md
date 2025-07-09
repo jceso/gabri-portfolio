@@ -158,6 +158,9 @@ sections:
       - type: Label
         label: Node.js
         url: ''
+      - type: Label
+        label: Express.js
+        url: ''
     title: Competenze
   - type: DividerSection
     styles:
