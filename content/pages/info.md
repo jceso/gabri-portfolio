@@ -118,6 +118,9 @@ sections:
         label: PostgreSQL
       - type: Label
         label: MongoDB
+      - type: Label
+        label: MySQL
+        url: ''
   - type: DividerSection
     styles:
       self:
