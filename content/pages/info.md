@@ -141,7 +141,7 @@ sections:
         label: Android Studio
         url: ''
       - type: Label
-        label: Web Programming
+        label: Web Development
         url: ''
       - type: Label
         label: Android Development
