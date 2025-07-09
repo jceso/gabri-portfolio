@@ -109,7 +109,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
         label: Netlify
       - type: Label
