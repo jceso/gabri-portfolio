@@ -258,7 +258,7 @@ sections:
         label: Inglese B2 Certificato
         url: ''
       - type: Label
-        label: Portoghese
+        label: Portoghese - Base
         url: ''
       - type: Label
         label: Next.js
