@@ -255,7 +255,7 @@ sections:
         label: Italiano Madrelingua
         url: ''
       - type: Label
-        label: Inglese B2 Certificato
+        label: Inglese - B2 Certificato
         url: ''
       - type: Label
         label: Portoghese - Base
