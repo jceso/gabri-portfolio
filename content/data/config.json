@@ -84,7 +84,7 @@
             "address": "Via dello Scesone 1/bis, Perugia 06125",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
