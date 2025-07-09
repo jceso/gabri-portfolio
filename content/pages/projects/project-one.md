@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Portuguese Roots
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Progetto universitario
 description: Event Management Website
 featuredImage:
   type: ImageBlock
