@@ -174,6 +174,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Esperienze
       - type: FeaturedItem
         subtitle: ''
         text: >
