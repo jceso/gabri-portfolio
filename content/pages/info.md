@@ -255,7 +255,7 @@ sections:
         label: Italiano Madrelingua
         url: ''
       - type: Label
-        label: React
+        label: Inglese B2 Certificato
         url: ''
       - type: Label
         label: Microsoft Office
