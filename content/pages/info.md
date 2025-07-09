@@ -151,27 +151,40 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |+
+        text: >
           **Weedea Srl, Perugia (PG)  |  Novembre 2023 - Febbraio 2024**
 
-          *   freelance @freelance.me
+
+          *   Tirocinante con l'obiettivo di studio, test e implementazione di
+          software per la gestione dei
+
+          segreti di uno o più servizi all’interno di un container Docker.
+          Scrittura di una documentazione step-by-step per l’utilizzo e
+          implementazione di tale sistema e delle sue funzioni
+
 
           **2018-2021**
 
+
           *   fullstack at this startup
+
 
           **2015**
 
+
           *   senior front-end at this place
+
 
           **2013**
 
+
           *   intern developer at a big company
+
 
           **2011**
 
-          *   flipping burgers
 
+          *   flipping burgers
         styles:
           self:
             textAlign: left
