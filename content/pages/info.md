@@ -19,7 +19,7 @@ sections:
       Ho la patente B e sono automunito
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_20220712_094706.jpg
       altText: Hero image
     styles:
       self:
