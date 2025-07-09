@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >+
-          ***   Tirocinio***
+          <div style="text-align: center">***Tirocinio***</div>
 
 
           **Weedea Srl, Perugia (PG)  |  Novembre 2023 - Febbraio 2024**
@@ -168,7 +168,7 @@ sections:
           ***
 
 
-          ***   Volontariato***
+          <div style="text-align: center">***Volontariato***</div>
 
 
           **ESN Perugia | Novembre 2021 - presente**
