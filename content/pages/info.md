@@ -131,10 +131,10 @@ sections:
         label: XML
         url: ''
       - type: Label
-        label: Android Studio
+        label: GitHub
         url: ''
       - type: Label
-        label: GitHub
+        label: Android Studio
         url: ''
   - type: DividerSection
     styles:
