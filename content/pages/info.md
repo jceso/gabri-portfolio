@@ -142,6 +142,9 @@ sections:
       - type: Label
         label: Android Development
         url: ''
+      - type: Label
+        label: Problem Solving
+        url: ''
   - type: DividerSection
     styles:
       self:
