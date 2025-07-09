@@ -148,6 +148,9 @@ sections:
       - type: Label
         label: Gestione di progetti in team
         url: ''
+      - type: Label
+        label: Capacità di adattamento erapidità di apprendimento
+        url: ''
   - type: DividerSection
     styles:
       self:
