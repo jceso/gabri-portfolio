@@ -192,11 +192,10 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >
-          **Settembre 2020 - Aprile 2025         Votazione 97/110**
+          **Università degli studi di Perugia  |  Settembre 2020 - Aprile 2025**
 
 
-          *   Laurea Triennale in Informatica presso Università degli Studi di
-          Perugia
+          *   Laurea Triennale in Informatica con Votazione 97/110
 
 
           **Settembre 2015 - Giugno 2020       Votazione 83/100**
