@@ -121,6 +121,9 @@ sections:
       - type: Label
         label: MySQL
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
   - type: DividerSection
     styles:
       self:
