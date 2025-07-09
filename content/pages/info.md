@@ -125,6 +125,9 @@ sections:
         label: CSS
         url: ''
       - type: Label
+        label: XML
+        url: ''
+      - type: Label
         label: HTML
         url: ''
   - type: DividerSection
