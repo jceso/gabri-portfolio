@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Trannoi
 date: '2002-02-12'
 client: Awesome client
 description: >-
