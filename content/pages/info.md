@@ -139,6 +139,9 @@ sections:
       - type: Label
         label: Web Programming
         url: ''
+      - type: Label
+        label: Android Development
+        url: ''
   - type: DividerSection
     styles:
       self:
