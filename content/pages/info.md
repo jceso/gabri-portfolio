@@ -13,10 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |
-      SONO NATO IL 19 NOVEMBRE 2001
-      SONO ORIGINARIO DI CASTELLUCCIO INFERIORE (PZ) MA DOMICILIO A PERUGIA
-      HO LA PATENTE B E SONO AUTOMUNITO
+    text: ''
     media:
       type: ImageBlock
       url: /images/IMG_20220712_094706.jpg
