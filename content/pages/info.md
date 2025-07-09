@@ -155,36 +155,30 @@ sections:
           **Weedea Srl, Perugia (PG)  |  Novembre 2023 - Febbraio 2024**
 
 
-          *   Tirocinante con l'obiettivo di studio, test e implementazione di
-          software per la gestione dei
+          *   Studio, test e implementazione di software per la gestione dei
+          segreti di uno o più servizi all’interno di un container Docker
 
-          segreti di uno o più servizi all’interno di un container Docker.
-          Scrittura di una documentazione step-by-step per l’utilizzo e
+          *  Scrittura di una documentazione step-by-step per l’utilizzo e
           implementazione di tale sistema e delle sue funzioni
 
 
-          **2018-2021**
+          ***
 
 
-          *   fullstack at this startup
+          **ESN Perugia | Novembre 2021 - presente**
 
 
-          **2015**
+          *   Gestione di lavori di gruppo, tramite organizzazione e attività di
 
+          team building
 
-          *   senior front-end at this place
+          *  Manutenzione e gestione di app e sito web
 
+          *  Supporto e interessamento a funzioni di tipo comunicativo e con
+          rispetto di branding e regolamenti esterni
 
-          **2013**
-
-
-          *   intern developer at a big company
-
-
-          **2011**
-
-
-          *   flipping burgers
+          *  Gestione e cura dei rapporti con enti e realtà esterne o interne
+          alla rete ESN
         styles:
           self:
             textAlign: left
