@@ -175,7 +175,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Formazione:'
         text: >+
           **Settembre 2020 - Aprile 2025         Votazione 97/110** 
 
