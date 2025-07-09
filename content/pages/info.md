@@ -115,7 +115,7 @@ sections:
       - type: Label
         label: R
       - type: Label
-        label: C++
+        label: PostgreSQL
       - type: Label
         label: Swift
   - type: DividerSection
