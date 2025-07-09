@@ -152,6 +152,9 @@ sections:
       - type: Label
         label: Capacità di adattamento e rapidità di apprendimento
         url: ''
+      - type: Label
+        label: Angular
+        url: ''
     title: Competenze
   - type: DividerSection
     styles:
