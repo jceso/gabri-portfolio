@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Sono un neolaureato in informatica
+    title: 'mI PRESENTO, SONO gABRIELE cESALI'
     subtitle: >-
       Sono un neolaureato in Informatica, con uno spiccato interesse per la
       programmazione e lo sviluppo web. L’esperienza Erasmus+ ha rafforzato la
