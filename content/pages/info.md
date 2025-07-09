@@ -151,6 +151,7 @@ sections:
       - type: Label
         label: Capacità di adattamento e rapidità di apprendimento
         url: ''
+    title: Competenze
   - type: DividerSection
     styles:
       self:
