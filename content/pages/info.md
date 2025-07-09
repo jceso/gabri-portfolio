@@ -116,6 +116,9 @@ sections:
       - type: Label
         label: R
       - type: Label
+        label: Angular
+        url: ''
+      - type: Label
         label: PostgreSQL
       - type: Label
         label: MongoDB
@@ -130,9 +133,6 @@ sections:
         url: ''
       - type: Label
         label: XML
-        url: ''
-      - type: Label
-        label: Angular
         url: ''
       - type: Label
         label: GitHub
