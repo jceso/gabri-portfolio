@@ -176,18 +176,20 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Settembre 2020 - Aprile 2025         Votazione 97/110** 
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Laurea Triennale in Informatica presso Università degli Studi di
+          Perugia
 
-          * react certificate somewhere
 
-          **2011**
+          **Settembre 2015 - Giugno 2020       Votazione 83/100**
 
-          * my highschool
+
+          *   Liceo Scientifico opzione Scienze Applicate presso IIS De Sarlo -
+          De Lorenzo | Lagonegro (PZ)
+
         styles:
           self:
             textAlign: left
