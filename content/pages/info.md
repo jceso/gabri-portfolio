@@ -145,6 +145,9 @@ sections:
       - type: Label
         label: Problem Solving
         url: ''
+      - type: Label
+        label: Gestione di progetti in team
+        url: ''
   - type: DividerSection
     styles:
       self:
