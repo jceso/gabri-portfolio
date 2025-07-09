@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >+
-          *Tirocinante*
+          ***   Tirocinante***
 
 
           **Weedea Srl, Perugia (PG)  |  Novembre 2023 - Febbraio 2024**
