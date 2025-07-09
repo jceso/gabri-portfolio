@@ -111,7 +111,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Netlify
+        label: NumPy (Python)
       - type: Label
         label: Pancakes
       - type: Label
