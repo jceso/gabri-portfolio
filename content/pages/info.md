@@ -111,7 +111,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: NumPy (Python)
+        label: Kotlin
       - type: Label
         label: Pandas (Python)
       - type: Label
