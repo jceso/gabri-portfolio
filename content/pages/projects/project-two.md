@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Basic Kotlin App
 colors: colors-a
-date: '2021-06-04'
+date: '2025-12-04'
 client: Progetto personale
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
