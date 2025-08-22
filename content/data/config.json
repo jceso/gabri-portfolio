@@ -49,7 +49,7 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": "",
-                "icon": "chevronLeft",
+                "icon": "",
                 "showIcon": true
             },
             {
