@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Event Management - PERN Stack
 date: '2025-08-04'
-client: Awesome client
+client: Progetto personale
 description: >-
   Sito web costruito con lo stack PERN - PostGreSQL, Express, React, Node.js
   Come database, è stato però scelto il servizio online Supabase (anch'esso
