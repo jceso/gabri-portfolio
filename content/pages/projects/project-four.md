@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Event Management
+title: Event Management - PERN Stack
 date: '2025-08-04'
 client: Progetto personale
 description: >-
