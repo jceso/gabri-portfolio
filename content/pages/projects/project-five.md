@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: QR Code Event App
 date: '2024-12-03'
-client: Awesome client
+client: Progetto universitario
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
