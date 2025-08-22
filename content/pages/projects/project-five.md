@@ -3,9 +3,7 @@ type: ProjectLayout
 title: QR Code Event App
 date: '2024-12-03'
 client: Progetto universitario
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Android - Java, JavaScript'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
