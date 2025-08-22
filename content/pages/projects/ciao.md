@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Trannoi
 date: '2002-02-12'
 client: Progetto Universitario
-description: Among Us Copycat
+description: ''
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
