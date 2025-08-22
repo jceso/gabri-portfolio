@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Trannoi
 date: '2020-12-12'
 client: Progetto Universitario
-description: C Language
+description: Linguaggio C
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
