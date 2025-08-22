@@ -50,7 +50,7 @@
                 "url": "/info",
                 "altText": "",
                 "icon": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
