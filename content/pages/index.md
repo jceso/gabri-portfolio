@@ -32,7 +32,7 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-48
+          - pb-20
           - pl-4
           - pr-4
         flexDirection: row-reverse
@@ -62,8 +62,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
+          - pt-10
+          - pb-5
           - pl-4
           - pr-4
         textAlign: left
