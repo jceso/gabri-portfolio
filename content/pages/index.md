@@ -63,7 +63,7 @@ sections:
         width: wide
         padding:
           - pt-10
-          - pb-10
+          - pb-5
           - pl-4
           - pr-4
         textAlign: left
