@@ -3,11 +3,7 @@ type: ProjectLayout
 title: Event Management - PERN Stack
 date: '2025-08-04'
 client: Progetto personale
-description: >-
-  Sito web costruito con lo stack PERN - PostGreSQL, Express, React, Node.js
-  Come database, è stato però scelto il servizio online Supabase (anch'esso
-  utilizza PostGreSQL) in modo da avere la possibilità di utilizzare tale sito e
-  di poterne facilmente gestire i dati e le autenticazioni richieste.
+description: ''
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
