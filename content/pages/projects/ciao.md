@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Trannoi
-date: '2002-12-12'
+date: '2020-12-12'
 client: Progetto Universitario
 description: C Language
 featuredImage:
