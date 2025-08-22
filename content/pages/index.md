@@ -68,7 +68,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: ''
-    title: Projects
+    title: Progetti
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
