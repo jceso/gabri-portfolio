@@ -4,7 +4,7 @@ title: To-do List App
 colors: colors-a
 date: '2025-12-04'
 client: Progetto personale
-description: Kotlin
+description: Android - Kotlin
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
