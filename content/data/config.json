@@ -54,7 +54,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:01gabrielecesali@gmail.com",
-                "altText": ""
+                "altText": "",
+                "showIcon": false
             }
         ],
         "contacts": {
