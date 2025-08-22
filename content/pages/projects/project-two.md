@@ -13,6 +13,7 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+addTitleSuffix: true
 ---
 ## [Link GitHub](https://github.com/jceso/kotlin-toDoList)
 
