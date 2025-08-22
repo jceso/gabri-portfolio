@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Event Management
 date: '2025-08-04'
 client: Progetto personale
-description: ''
+description: PERN Stack - Supabase
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
