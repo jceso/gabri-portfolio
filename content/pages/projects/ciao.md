@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Trannoi
 date: '2002-02-12'
 client: Progetto Universitario
-description: ''
+description: C Language
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
